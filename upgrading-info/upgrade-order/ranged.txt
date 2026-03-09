@@ -1,7 +1,7 @@
 ## __Introduction__
 .tag:intro
 This channel lists the **general** natural combat style progression template for players to follow.
-**Last Revised: 8 March 2026**
+**Last Revised: 9 March 2026**
 
 .
 ## __Disclaimer__
@@ -78,6 +78,8 @@ At this point try to finish the majority of unlocks in <#1242226798742208642>.
     • Use on <:bolg:994189289623662702>
 ⬥ Desolation <:Desolation:513190159018098713> - <:coins:698816156961603654> $data_pvme:unlock_pdex$
 ⬥ Gloomfire bow (Essence of Finality) <:gloomfirebow:1446178203608809472> <:eofyellowu:1260022280046645349> - <:coins:698816156961603654> $data_pvme:unlock_gloomfireeof$
+⬥ Enhanced Nightmare Gauntlets + Enchantment of Dread <:nightmaregauntlets:513190159441723392> <:enchantmentofdread:1006481315199209524> - <:coins:698816156961603654> $data_pvme:unlock_nmg_enhanced$
+    • Skip if not doing group content
 ⬥ Erethdor's Grimoire <:grim:568262896375824385> - <:coins:698816156961603654> $data_pvme:unlock_grim$
 ⬥ Corruption Shot <:corruptshot:535541306294796299> - <:coins:698816156961603654> $data_pvme:unlock_mazcab$
 ⬥ Limitless <:limitless:641339233638023179> - <:coins:698816156961603654> $data_pvme:unlock_limitless$
